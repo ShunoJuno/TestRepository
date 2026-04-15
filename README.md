@@ -1,7 +1,15 @@
 # TestRepository
-This is a test repository where I am learning how this works and getting some practice.
+This repo is all about me learning about Github and getting some practice with its different features for my Stat 184 class. 
 
-Shaun Bittenbender
-I'm a second year college student
-My major is Data Science
-In 5 years I hope I'm working a stable enough job to live
+# Data used
+There is currently no data used in this repo
+
+#Current Plan
+My current plan is to continue to learn and get practice with Github.
+
+#Repo Organized
+This Repo is simply organized with call files currently living on the top level
+
+#Contact Information
+If there are any questions about this Repo you can contact me at
+[Shaun Bittenbender](mailto:smb8620@psu.edu)
